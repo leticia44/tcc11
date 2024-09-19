@@ -34,7 +34,7 @@
                     <h1>Ao continuar você declara que leu e concorda com os
                         <a href="termosdeuso.php"> Termos de Uso </a>
                         e a
-                        <a href="politica.php"> Política de Privicidade</a>
+                        <a href="politica.php"> Política de Privacidade</a>
                         do AjudeAKI
                     </h1>
                     </div>
