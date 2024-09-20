@@ -13,8 +13,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     // Verifica se as senhas são iguais
     if ($senha === $confirmar_senha) {
-        // Criptografa a senha
-        $senha_criptografada = md5($senha);
+    // Criptografa a senha
+    $senha_criptografada = md5($senha);
 
         // Verifica se o e-mail já existe no banco de dados
         $sql_check_user = "SELECT COUNT(*) AS total FROM usuarios WHERE email = ?";

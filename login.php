@@ -23,7 +23,7 @@
             <div class="cadastro1">
                 <img src="img/PerfilBranco.png" class="perfil">
                 <input type="text" name="email" class="forms" placeholder="Email" required>
-                <input type="text" name="senha" class="forms" placeholder="Senha" required>
+                <input type="password" name="senha" class="forms" placeholder="Senha" required>
                 <button class='botao1'>login </button>
                 <h1 class="text"> ou
                 <a href="cadastro.php">cadastre-se aqui</a></h1>

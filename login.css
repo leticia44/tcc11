@@ -95,3 +95,14 @@ a {
 a {
     color: inherit; /* Herda a cor do texto pai */
 }
+.notification {
+    background: red;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Poppins", sans-serif;
+    opacity:0.7;
+}
