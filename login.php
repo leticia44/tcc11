@@ -19,7 +19,7 @@
     <img src="img/semfundo.png" alt="" class="back">
     <div class="fundo">
     <h1 class="titulo"> Faça seu login</h1>
-        <form action="cadastrar.php" method="POST">
+        <form action="logar.php" method="POST">
             <div class="cadastro1">
                 <img src="img/PerfilBranco.png" class="perfil">
                 <input type="text" name="email" class="forms" placeholder="Email" required>
@@ -29,7 +29,4 @@
                 <a href="cadastro.php">cadastre-se aqui</a></h1>
             </div>
     </div>
-
-
-
     </form>

@@ -26,8 +26,8 @@
                 <input type="text" name="nome" class="forms" placeholder="Nome" required>
                 <input type="text" name="cpf" class="forms" placeholder="CPF" required>
                 <input type="text" name="rg" class="forms" placeholder="RG" required>
-                <input type="text" name="senha" class="forms" placeholder="Senha" required>
-                <input type="text" name="senhaa" class="forms" placeholder="Confirmar Senha" required>
+                <input type="password" name="senha" class="forms" placeholder="Senha" required>
+                <input type="password" name="senhaa" class="forms" placeholder="Confirmar Senha" required>
                 <label>
                     <div class="checkboxx">
                     <input type="checkbox" name="termos" required>
@@ -42,7 +42,4 @@
                 <button class='botao1'>Cadastrar-se </button>
             </div>
     </div>
-
-
-
     </form>
